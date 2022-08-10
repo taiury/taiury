@@ -1,16 +1,51 @@
-### Hi there 👋
+## 👋 Hello! Welcome to my Github profile.
 
-<!--
-**taiury/taiury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### My name is taiury!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm a systems analysis and development student.
+- I started programming in 2020.
+- I love the software engineering branch.
+- i'm still learning english, my english is low level.
+- I have a preference for backend, but I intend to become full stack.
+- Morando atualmente em Camaçari, Bahia.
+
+<br>
+
+### 📫 How to reach me
+
+<div>
+<a href = "mailto:alexandretaiury@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
+<br>
+
+### Tools and Technology
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</div>
+<br>
+
+### 🌱 I’m currently learning
+
+<div marginBottom="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+</div>
+<br>
+
+### 🔭 My Github stats
+
+  <div>
+  <a href="https://github.com/taiury">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiury&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taiury&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </div>
