@@ -35,7 +35,7 @@
 </div>
 <br>
 
-### 🔭 My Github stats
+### 🔭 My Github Stats in Public Repositories
 
   <div>
   <a href="https://github.com/taiury">
