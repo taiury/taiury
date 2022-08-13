@@ -2,7 +2,7 @@
 
 ----
 
-### :alien: My name is taiury!
+### :octocat: My name is taiury!
 
 - I'm a systems analysis and development student.
 - I started programming in 2020.
