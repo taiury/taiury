@@ -1,6 +1,6 @@
 ## 👋 Hello! Welcome to my Github profile.
 
-<br>
+----
 
 ### My name is taiury!
 
@@ -11,7 +11,7 @@
 - I have a preference for backend, but I intend to become full stack.
 - Morando atualmente em Camaçari, Bahia.
 
-<br>
+----
 
 ### Tools and Technology
 
@@ -21,7 +21,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </div>
-<br>
+
+----
 
 ### 🌱 I’m currently learning
 
@@ -33,7 +34,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </div>
-<br>
+
+----
 
 ### 🔭 My Github Stats in Public Repositories
 
