@@ -2,7 +2,7 @@
 
 ----
 
-### My name is taiury!
+### :alien: My name is taiury!
 
 - I'm a systems analysis and development student.
 - I started programming in 2020.
