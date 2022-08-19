@@ -26,7 +26,7 @@
 
 - React
 - Redux
-- Relational database
+- SQL
   - Mysql
   - PostgreSQL
 - NoSQL
