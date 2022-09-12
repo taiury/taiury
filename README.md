@@ -7,7 +7,6 @@
 - I'm a systems analysis and development student.
 - I started programming in 2020.
 - i'm still learning english.
-- I have a preference for backend, but I intend to become full stack.
 - Morando atualmente em Camaçari, Bahia.
 
 ----
