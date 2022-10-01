@@ -4,7 +4,6 @@
 
 ### :octocat: My name is taiury!
 
-- I'm a systems analysis and development student.
 - I started programming in 2020.
 - i'm still learning english.
 - Morando atualmente em Camaçari, Bahia.
