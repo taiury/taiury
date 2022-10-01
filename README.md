@@ -2,7 +2,7 @@
 
 ----
 
-### :octocat: My name is taiury!
+### :octocat: My name is Taiury!
 
 - I started programming in 2020.
 - i'm still learning english.
