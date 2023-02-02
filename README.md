@@ -13,7 +13,7 @@
 
 ### :octocat: Sobre:
 
-Olá meu nome é Taiury Alexandre, desenvolvo desde 2020, já atuei como co-desenvolvedor <br> de um conjunto de APIs que hoje atendem a mais 2000 clientes e uma média 137 requisições simultâneas.
+Olá meu nome é Taiury Alexandre, desenvolvo desde 2020
 
 ---
 
